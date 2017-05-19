@@ -1,2 +1,2 @@
-This repo is a backup of N-O-D-E.net
-Feel free to download and share
+##bads.tm website reconstrucion zone
+Try it out, the more (code) readable and still informational version!

@@ -1,209 +1,51 @@
 <?xml version="1.0" ?>
 <rss version="2.0">
+    <!--
+    #badsEngine
+      -->
 <channel>
-  <title>N O D E</title>
-  <link>https://N-O-D-E.net</link>
+  <title>bads.tm RSS Service</title>
+  <link>https://bads-tm.github.io</link>
 
   <image>
-      <url>https://N-O-D-E.net/images/avatar.png</url>
-      <link>https://N-O-D-E.net</link>
+      <url>https://bads-tm.github.io/avatar.png</url>
+      <link>https://bads-tm.github.io</link>
   </image>
-
+    <!--
+    ContentMan
+      -->
+	  
+	  
+	  
+	  
+	  
   <item>
-      <title>THE POCKET NODE (RASPBERRY PI 3 SSD SERVER)</title>
-      <link>http://n-o-d-e.net/pocketnode.html</link>
+      <title>bads.tm RSS Service Start [2017 MAY 19 12:49]</title>
+      <link>https://bads-tm.github.io</link>
   </item>
-
-  <item>
-      <title>CYBER DUMP 41 / AUGMENTED DRONES, BITCOIN GROWTH, SNAKE ROBOT, AI FILM</title>
-      <link>http://n-o-d-e.net/cd41.html</link>
-  </item>
-
-  <item>
-      <title>OPENDIME V2: CYBERPUNK CREDSTICKS RETURN (+ GIVEAWAY)</title>
-      <link>http://n-o-d-e.net/opendime2.html</link>
-  </item>
-
-  <item>
-      <title>DEAD DROP 16 / ANTBLEED, USB CANARY, LINUX PRIVACY GUIDE, BRICKERBOT</title>
-      <link>http://n-o-d-e.net/dd16.html</link>
-  </item>
-
-  <item>
-      <title>CYBER DUMP 40 / VR FILMS, ARTIFICIAL WOMB, FIREFIGHTER ROBOT, DECENTRALAND</title>
-      <link>http://n-o-d-e.net/cd40.html</link>
-  </item>
-
-  <item>
-      <title>DECENTRALAND: P2P VIRTUAL REALITY</title>
-      <link>http://n-o-d-e.net/decentraland.html</link>
-  </item>
-
-  <item>
-      <title>MORE CASIO WATCH MODS (INVERTED AND TRANSLUCENT LCD)</title>
-      <link>http://n-o-d-e.net/casio2.html</link>
-  </item>
-
-  <item>
-      <title>DEAD DROP 15 / BIOMETRIC CREDIT CARD, MALWARE WAR, GOOD USB, PRIVATE DOMAINS</title>
-      <link>http://n-o-d-e.net/dd15.html</link>
-  </item>
-
-  <item>
-      <title>CYBER DUMP 39 / ROBOT FIGHTS, HODLHODL, BOUNCING DRONES, STALLMAN</title>
-      <link>http://n-o-d-e.net/cd39.html</link>
-  </item>
-
-  <item>
-      <title>CASIO WATCH MOD</title>
-      <link>http://n-o-d-e.net/casio.html</link>
-  </item>
-
-  <item>
-      <title>CYBER DUMP 38 / UPS DRONE, SECURITY BOT, LIGHT FIELD MIXED REALITY</title>
-      <link>http://n-o-d-e.net/cd38.html</link>
-  </item>
-
-  <item>
-      <title>THE ZERO TERMINAL (PORTABLE PI ZERO W)</title>
-      <link>http://n-o-d-e.net/zeroterminal.html</link>
-  </item>
-
-  <item>
-      <title>THE PI ZERO W DONGLE ADDON (VERSION 2)</title>
-      <link>http://n-o-d-e.net/dongle2.html</link>
-  </item>
-
-  <item>
-      <title>NODE UPDATES</title>
-      <link>http://n-o-d-e.net/node_updates2.html</link>
-  </item>
-
-  <item>
-      <title>PI PYRAMID HOME BOT (MINI MAGIC MIRROR)</title>
-      <link>http://n-o-d-e.net/pipyramid.html</link>
-  </item>
-
-  <item>
-      <title>DEAD DROP 14 / 3D PRINTED KEYS, IOS EMOJI BUG, LAVABIT 2.0</title>
-      <link>http://n-o-d-e.net/dd14.html</link>
-  </item>
-
-  <item>
-      <title>CYBER DUMP 37 / FULL BODY VR, 3D BONES, ROBOT WORKERS, USB CONDOM</title>
-      <link>http://n-o-d-e.net/cd37.html</link>
-  </item>
-
-  <item>
-      <title>CHEAP &amp; SMALL DIY NIGHT VISION</title>
-      <link>http://n-o-d-e.net/nightvision.html</link>
-  </item>
-
-  <item>
-      <title>TOOLS TO SIMPLIFY THE COMMAND LINE: PART 2 (LINUX/MAC)</title>
-      <link>http://n-o-d-e.net/cli2.html</link>
-  </item>
-
-  <item>
-      <title>TOOLS TO SIMPLIFY THE COMMAND LINE (LINUX/MAC)</title>
-      <link>http://n-o-d-e.net/cli.html</link>
-  </item>
-
-
-  <item>
-      <title>USB CONDOM KEYCHAIN (V3)</title>
-      <link>http://n-o-d-e.net/usbcondom3.html</link>
-  </item>
-
-  <item>
-      <title>DEAD DROP 13 / ACROBAT DODGINESS, HTTPS 2016, ZERONET BIRTHDAY, 3D FACE CAMERA</title>
-      <link>http://n-o-d-e.net/dd13.html</link>
-  </item>
-
-  <item>
-      <title>CYBER DUMP 36 / DRONE SWARMS, DIY CENTRIFUGE, OCEAN NODES</title>
-      <link>http://n-o-d-e.net/cd36.html</link>
-  </item>
-
-  <item>
-      <title>THE PI ZERO POWER CASE</title>
-      <link>http://n-o-d-e.net/power_case.html</link>
-  </item>
-
-  <item>
-      <title>DEAD DROP 12 / NETGEAR 0DAY, PRE-CRIME AI, HARDWARE HACKING, CON VIDS</title>
-      <link>http://n-o-d-e.net/dd12.html</link>
-  </item>
-
-  <item>
-      <title>CYBER DUMP 35 / INTEL MIXED REALITY, HOLOLAMP, ROBOTIC HANDS, BENDY BATTERIES</title>
-      <link>http://n-o-d-e.net/cd35.html</link>
-  </item>
-
-  <item>
-      <title>2016 YEAR IN REVIEW &amp; THANK YOU</title>
-      <link>http://n-o-d-e.net/2017.html</link>
-  </item>
-
-  <item>
-      <title>DEAD DROP 11 / MICRO SD RECOVERY, FACE TRACKING, THUNDERBOLT RAM HACK</title>
-      <link>http://n-o-d-e.net/dd11.html</link>
-  </item>
-
-  <item>
-      <title>CYBER DUMP 34 / GOOGLE WAYMO, AMAZON DRONES, ROBOTIC FLESH, AI GAMES</title>
-      <link>http://n-o-d-e.net/cd34.html</link>
-  </item>
-
-  <item>
-      <title>NODE UPDATES</title>
-      <link>http://n-o-d-e.net/node_updates.html</link>
-  </item>
-
-  <item>
-      <title>DEAD DROP 10 / GOOLIGAN, BITLOCKER VULN, CRYPTO 101, CREDIT CARD HACK, PROJECT X</title>
-      <link>http://n-o-d-e.net/dd10.html</link>
-  </item>
-
-  <item>
-      <title>CYBER DUMP 33 / TETHERED DRONE, ADRIAN ASSISTANT, VR BACKPACK, BITMESSAGE 101</title>
-      <link>http://n-o-d-e.net/cd33.html</link>
-  </item>
-
-  <item>
-      <title>BITMESSAGE 101: P2P PRIVATE MESSAGING</title>
-      <link>http://n-o-d-e.net/bitmessage.html</link>
-  </item>
-
-  <item>
-      <title>DEAD DROP 9 / NAVY BREACH, RIOT ENCRYPTION, MICROPHONE HEADPHONES, UNSECURED WIFI</title>
-      <link>http://n-o-d-e.net/dd09.html</link>
-  </item>
-
-  <item>
-      <title>CYBER DUMP 32 / 3D PRINTED SMG, SOLAR ISLAND, RPI SATELLITE RECEIVER, ACCURATE VR TRACKING</title>
-      <link>http://n-o-d-e.net/dd10.html</link>
-  </item>
-
-  <item>
-      <title>PRIVATE COMMUNICATION ON THE CLEARNET</title>
-      <link>http://n-o-d-e.net/clearnet.html</link>
-  </item>
-
-  <item>
-      <title>THE ZAMEK HARDWARE PASSWORD MANAGER (EARLY LOOK)</title>
-      <link>http://n-o-d-e.net/zamek.html</link>
-  </item>
-
-  <item>
-      <title>DEAD DROP 08 / 1984 IS HERE, LOCKSCREEN BYPASS, POISONTAP, FAST IOT INFECTIONS</title>
-      <link>http://n-o-d-e.net/dd08.html</link>
-  </item>
-
-  <item>
-      <title>CYBER DUMP 31 / PI ZERO PRISM, AI EXPERIMENT, DRONE SWARMS, CHEAPER VR</title>
-      <link>http://n-o-d-e.net/cd31.html</link>
-  </item>
-
 </channel>
-</rss> 
+</rss>
+
+
+
+
+
+      <!--
+    Old Site - bads.tm
+	http://thebads.weebly.com/1/feed
+      -->
+	  
+	  <?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" >
+
+<channel><link><![CDATA[http://thebads.weebly.com/blog]]></link><description><![CDATA[Blog]]></description><pubDate>Tue, 18 Apr 2017 13:55:25 +0300</pubDate><generator>Weebly</generator><item><title><![CDATA[Small website updrage]]></title><link><![CDATA[http://thebads.weebly.com/blog/small-website-updrage]]></link><comments><![CDATA[http://thebads.weebly.com/blog/small-website-updrage#comments]]></comments><pubDate>Sat, 21 Jan 2017 09:53:44 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://thebads.weebly.com/blog/small-website-updrage</guid><description><![CDATA[ [...] ]]></description><content:encoded><![CDATA[]]></content:encoded></item><item><title><![CDATA[bads.tm switch]]></title><link><![CDATA[http://thebads.weebly.com/blog/badstm-switch]]></link><comments><![CDATA[http://thebads.weebly.com/blog/badstm-switch#comments]]></comments><pubDate>Tue, 01 Nov 2016 10:08:00 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://thebads.weebly.com/blog/badstm-switch</guid><description><![CDATA[      [...] ]]></description><content:encoded><![CDATA[<div class="wsite-youtube" style="margin-bottom:10px;margin-top:10px;"><div class="wsite-youtube-wrapper wsite-youtube-size-auto wsite-youtube-align-center"> <div class="wsite-youtube-container">  <iframe src="//www.youtube.com/embed/BXjrBFRf2ek?wmode=opaque" frameborder="0" allowfullscreen></iframe> </div> </div></div>]]></content:encoded></item><item><title><![CDATA[So.. I think it's time make somewhat S.W.I.N.E. 2. Possible﻿.]]></title><link><![CDATA[http://thebads.weebly.com/blog/so-i-think-its-time-make-somewhat-swine-2-possible]]></link><comments><![CDATA[http://thebads.weebly.com/blog/so-i-think-its-time-make-somewhat-swine-2-possible#comments]]></comments><pubDate>Mon, 12 Sep 2016 14:03:32 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://thebads.weebly.com/blog/so-i-think-its-time-make-somewhat-swine-2-possible</guid><description><![CDATA[Panzers Phase 2 Mini Tools Coming! And Also Tutorials to Programming, or simply bads.tm behind the scenesPossibly in live stream form.And also I'm bringing back GUI like experience [...] ]]></description><content:encoded><![CDATA[<div class="paragraph"><strong>Panzers Phase 2 Mini Tools Coming! And Also Tutorials to Programming, or simply bads.tm behind the scenes<br />Possibly in live stream form.<br />And also I'm bringing back GUI like experience</strong><br /></div>]]></content:encoded></item><item><title><![CDATA[UEI (User Experience Improval) or just Feedback﻿]]></title><link><![CDATA[http://thebads.weebly.com/blog/uei-user-experience-improval-or-just-feedback]]></link><comments><![CDATA[http://thebads.weebly.com/blog/uei-user-experience-improval-or-just-feedback#comments]]></comments><pubDate>Sat, 27 Aug 2016 07:08:54 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://thebads.weebly.com/blog/uei-user-experience-improval-or-just-feedback</guid><description><![CDATA[I don't know what else to say.easter egg :D [...] ]]></description><content:encoded><![CDATA[<div class="paragraph">I don't know what else to say.<br /><br /><font color="#ffffff">easter egg :D</font><br /></div>]]></content:encoded></item><item><title><![CDATA[t.u.s.t.k. 2. 1.1 (TheEdge) + InstaLauncher]]></title><link><![CDATA[http://thebads.weebly.com/blog/tustk-2-11-theedge-instalauncher]]></link><comments><![CDATA[http://thebads.weebly.com/blog/tustk-2-11-theedge-instalauncher#comments]]></comments><pubDate>Wed, 20 Jul 2016 08:58:00 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://thebads.weebly.com/blog/tustk-2-11-theedge-instalauncher</guid><description><![CDATA[ 	 		 			 				 					 						  Pack includes: &#8203;Old Mod LauncherT.U.S.T.K. 2. 1.1.UFO 2 ModTrail Style Mod   					 								 					 						    Download     					 							 		 	   InstaLauncher - fork of Mod Manager so people can instantly use their/somebody made mods  Change log:Redesigned Main MenuINI, Mod Manager, PAK, Map Loader Autostart [...] ]]></description><content:encoded><![CDATA[<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;"> 	<table class="wsite-multicol-table"> 		<tbody class="wsite-multicol-tbody"> 			<tr class="wsite-multicol-tr"> 				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;"> 					 						  <div class="paragraph" style="text-align:left;">Pack includes: <br />&#8203;<strong><font color="#000000">Old Mod Launcher<br />T.U.S.T.K. 2. 1.1.<br />UFO 2 Mod<br />Trail Style Mod</font></strong><br /></div>   					 				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;"> 					 						  <div style="text-align:left;"><div style="height: 10px; overflow: hidden;"></div> <a class="wsite-button wsite-button-small wsite-button-normal" href="http://thebads.weebly.com/tustk-2.html" > <span class="wsite-button-inner">Download</span> </a> <div style="height: 10px; overflow: hidden;"></div></div>   					 				</td>			</tr> 		</tbody> 	</table> </div></div></div>  <div class="paragraph" style="text-align:center;"><font color="#000000">InstaLauncher - fork of Mod Manager so people can instantly use their/somebody made mods</font></div>  <div class="paragraph" style="text-align:left;">Change log:<br /><strong>Redesigned Main Menu</strong><br /><strong>INI, Mod Manager, PAK, Map Loader Autostart</strong></div>]]></content:encoded></item><item><title><![CDATA[Website ReConstruction]]></title><link><![CDATA[http://thebads.weebly.com/blog/website-reconstruction]]></link><comments><![CDATA[http://thebads.weebly.com/blog/website-reconstruction#comments]]></comments><pubDate>Thu, 09 Jun 2016 09:47:21 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://thebads.weebly.com/blog/website-reconstruction</guid><description><![CDATA[Now you can find stuff easer if you need :)But some pages were removed or simply replaced&#8203;Bug Report is now part of Contact FormPages will be added but now are removed:Software &amp; ModsPost will be updated. [...] ]]></description><content:encoded><![CDATA[<div class="paragraph" style="text-align:left;"><font color="#000000">Now you can find stuff easer if you need :)<br />But some pages were <strong>removed </strong>or simply<strong> replaced<br />&#8203;Bug Report is now part of <a href="http://thebads.weebly.com/contact.html">Contact Form<br /></a><br />Pages will be added but now are removed:<br />Software &amp; Mods<br /></strong></font><br />Post will be updated.<br /></div>]]></content:encoded></item><item><title><![CDATA[App In Works]]></title><link><![CDATA[http://thebads.weebly.com/blog/app-in-works]]></link><comments><![CDATA[http://thebads.weebly.com/blog/app-in-works#comments]]></comments><pubDate>Sun, 29 May 2016 12:11:00 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://thebads.weebly.com/blog/app-in-works</guid><description><![CDATA[             [...] ]]></description><content:encoded><![CDATA[<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center"> <a> <img src="http://thebads.weebly.com/uploads/2/8/2/7/28275701/1124376.jpg?177" alt="Picture" style="width:177;max-width:100%" /> </a> <div style="display:block;font-size:90%"></div> </div></div>  <div class="wsite-youtube" style="margin-bottom:10px;margin-top:10px;"><div class="wsite-youtube-wrapper wsite-youtube-size-auto wsite-youtube-align-center"> <div class="wsite-youtube-container">  <iframe src="//www.youtube.com/embed/XE0YHtGtt5s?wmode=opaque" frameborder="0" allowfullscreen></iframe> </div> </div></div>]]></content:encoded></item><item><title><![CDATA[the t.u.s.t.k.+ is incoming!﻿]]></title><link><![CDATA[http://thebads.weebly.com/blog/the-tustk-is-incoming]]></link><comments><![CDATA[http://thebads.weebly.com/blog/the-tustk-is-incoming#comments]]></comments><pubDate>Fri, 22 Apr 2016 14:14:51 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://thebads.weebly.com/blog/the-tustk-is-incoming</guid><description><![CDATA[coming soon...!#qp_main663431 .qp_btna:hover input {background:#002644!important} #qp_all663431 {max-width:792px; margin:0 auto;}How you found this websiteFriendSearching on internetSomehow/I Don't KnownOtherPlease Specify: Quiz Maker [...] ]]></description><content:encoded><![CDATA[<div class="paragraph" style="text-align:left;">coming soon...!</div><div><div id="444369581585169120" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><div id="qp_all663431" style="width:100%;"><link href='http://thebads.weebly.com//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'><style>#qp_main663431 .qp_btna:hover input {background:#002644!important} #qp_all663431 {max-width:792px; margin:0 auto;}</style><div id="qp_main663431" fp='799a4615-27' results="0" tzs="2" tze="2" style="border-radius:0px;margin:0 auto;padding:15px;background-color:#006dc5;font-family:'Open Sans', sans-serif,Arial;color:#000;border:1px solid #004379;max-width:792px"><div style="font-size:1.2em;background-color:#004379;color:#FFF;font-family:'Open Sans', sans-serif, Arial"><div style="line-height:30px;padding:10px 15px">How you found this website</div></div><form id="qp_form663431" action="//www.poll-maker.com/results663431x799a4615-27" method="post" target="_blank" style="display:inline;margin:0px;padding:0px" name="qp_form663431"><div style="padding:0px"><input type="hidden" name="qp_d663431" value="42483.0293518550-42483.0292902809"><div style="display:block;color:#FFF;background-color:#008dff;font-family: 'Open Sans', sans-serif, Arial;font-size:1.1em;line-height:1.5;padding:13px 8px 10px;margin:10px 0px;clear:both;border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px;-o-border-radius:6px;-ms-border-radius:6px" class="qp_a" onclick="var c=this.getElementsByTagName('INPUT')[0]; if((!event.target?event.srcElement:event.target).tagName!='INPUT'){c.checked=(c.type=='radio'?true:!c.checked)};var i=this.parentNode.parentNode.parentNode.getElementsByTagName('INPUT');for(var k=0;k!=i.length;k=k+1){i[k].parentNode.parentNode.setAttribute('sel',i[k].checked?1:0)}"><span style="display:block;padding-left:30px;cursor:inherit"><input style="float: left;width: 20px;margin-left: -25px;margin-top: 2px;padding: 0px;height: 20px" name="qp_v663431" type="radio" value="1">Friend</span></div><div style="display:block;color:#FFF;background-color:#008dff;font-family: 'Open Sans', sans-serif, Arial;font-size:1.1em;line-height:1.5;padding:13px 8px 10px;margin:10px 0px;clear:both;border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px;-o-border-radius:6px;-ms-border-radius:6px" class="qp_a" onclick="var c=this.getElementsByTagName('INPUT')[0]; if((!event.target?event.srcElement:event.target).tagName!='INPUT'){c.checked=(c.type=='radio'?true:!c.checked)};var i=this.parentNode.parentNode.parentNode.getElementsByTagName('INPUT');for(var k=0;k!=i.length;k=k+1){i[k].parentNode.parentNode.setAttribute('sel',i[k].checked?1:0)}"><span style="display:block;padding-left:30px;cursor:inherit"><input style="float: left;width: 20px;margin-left: -25px;margin-top: 2px;padding: 0px;height: 20px" name="qp_v663431" type="radio" value="2">Searching on internet</span></div><div style="display:block;color:#FFF;background-color:#008dff;font-family: 'Open Sans', sans-serif, Arial;font-size:1.1em;line-height:1.5;padding:13px 8px 10px;margin:10px 0px;clear:both;border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px;-o-border-radius:6px;-ms-border-radius:6px" class="qp_a" onclick="var c=this.getElementsByTagName('INPUT')[0]; if((!event.target?event.srcElement:event.target).tagName!='INPUT'){c.checked=(c.type=='radio'?true:!c.checked)};var i=this.parentNode.parentNode.parentNode.getElementsByTagName('INPUT');for(var k=0;k!=i.length;k=k+1){i[k].parentNode.parentNode.setAttribute('sel',i[k].checked?1:0)}"><span style="display:block;padding-left:30px;cursor:inherit"><input style="float: left;width: 20px;margin-left: -25px;margin-top: 2px;padding: 0px;height: 20px" name="qp_v663431" type="radio" value="3">Somehow/I Don't Known</span></div><div style="display:block;color:#FFF;background-color:#008dff;font-family: 'Open Sans', sans-serif, Arial;font-size:1.1em;line-height:1.5;padding:13px 8px 10px;margin:10px 0px;clear:both;border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px;-o-border-radius:6px;-ms-border-radius:6px" class="qp_a" onclick="var c=this.getElementsByTagName('INPUT')[0]; if((!event.target?event.srcElement:event.target).tagName!='INPUT'){c.checked=(c.type=='radio'?true:!c.checked)};var i=this.parentNode.parentNode.parentNode.getElementsByTagName('INPUT');for(var k=0;k!=i.length;k=k+1){i[k].parentNode.parentNode.setAttribute('sel',i[k].checked?1:0)}"><span style="display:block;padding-left:30px;cursor:inherit"><input style="float: left;width: 20px;margin-left: -25px;margin-top: 2px;padding: 0px;height: 20px" name="qp_v663431" type="radio" value="999">Other</span></div><div id="qp_ot663431" style="display:block;color:#FFF;background-color:#008dff;font-family: 'Open Sans', sans-serif, Arial;font-size:1.1em;line-height:1.5;padding:13px 8px 10px;margin:10px 0px;clear:both;border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px;-o-border-radius:6px;-ms-border-radius:6px"><div style="padding-left:33px">Please Specify: <input style="width:100%;position:relative;top:2px" name='qp_other663431' type="text" value=''></div></div></div><div style="padding-left:0px;min-height:40px;clear:both"><a style="float:left;width:50%;max-width:140px;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;padding-right:5px;text-decoration:none" class="qp_btna" href="#"><input name="qp_b663431" style="width:100%;height:40px;background-color:#004379;font-family: 'Open Sans', sans-serif, Arial;font-size:16px;color:#FFF;cursor:pointer;cursor:hand;border:0px;-webkit-appearance:none;border-radius:0px" type="submit" btype="v" value="Vote"></a><a style="float:left;width:50%;max-width:140px;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;padding-left:5px;text-decoration:none" class="qp_btna" href="#"><input name="qp_b663431" style="width:100%;height:40px;background-color:#004379;font-family: 'Open Sans', sans-serif, Arial;font-size:16px;color:#FFF;cursor:pointer;cursor:hand;border:0px;-webkit-appearance:none;border-radius:0px" type="submit" btype="r" value="Results"></a></div><a id="qp_a663431" style="float:right;font-family:Arial;font-size:10px;color:rgb(0,0,0);text-decoration:none" href="http://www.poll-maker.com/QuizMaker">Quiz Maker</a></form><div style="display:none"><div id="qp_rp663431" style="font-size:11px;width:5ex;text-align:right;overflow:hidden;position:absolute;right:5px;height:1.5em;line-height:1.5em"></div><div id="qp_rv663431" style="font-size:11px;width:0%;line-height:1.5em;text-align:right;color:#FFF;box-sizing:border-box;padding-right:3px"></div><div id="qp_rb663431" style="font-size:12px;color:rgb(255,255,255);display:block;font-size:12px;padding-right:10px 5px"></div><div id="qp_rva663431" style="background:#006FB9;border-color:#006FB9"></div><div id="qp_rvb663431" style="background:#163463;border-color:#163463"></div><div id="qp_rvc663431" style="background:#5BCFFC;border-color:#1481AB"></div></div></div></div></div></div>]]></content:encoded></item><item><title><![CDATA[New website design and The Ultimate S.W.I.N.E. ToolKit﻿]]></title><link><![CDATA[http://thebads.weebly.com/blog/new-website-design-and-the-ultimate-swine-toolkit]]></link><comments><![CDATA[http://thebads.weebly.com/blog/new-website-design-and-the-ultimate-swine-toolkit#comments]]></comments><pubDate>Sun, 17 Apr 2016 10:06:06 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://thebads.weebly.com/blog/new-website-design-and-the-ultimate-swine-toolkit</guid><description><![CDATA[Today's blog not gonna be very long. Just information that:Today Website has new DesingToday TUSTK is available for public from theswinegame site&#8203;and thats it! [...] ]]></description><content:encoded><![CDATA[<div class="paragraph" style="text-align:left;">Today's blog not gonna be very long. Just information that:<br />Today Website has new Desing<br />Today TUSTK is available for public from<a target="_blank" href="http://theswinegame.weebly.com"> <u><strong>theswinegame</strong></u></a> site<br />&#8203;and thats it!<br /></div>]]></content:encoded></item><item><title><![CDATA[Mascot Scrapped. Future is original.]]></title><link><![CDATA[http://thebads.weebly.com/blog/mascot-scrapped-future-is-original]]></link><comments><![CDATA[http://thebads.weebly.com/blog/mascot-scrapped-future-is-original#comments]]></comments><pubDate>Tue, 15 Mar 2016 12:38:58 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://thebads.weebly.com/blog/mascot-scrapped-future-is-original</guid><description><![CDATA[      [...] ]]></description><content:encoded><![CDATA[<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center"> <a> <img src="http://thebads.weebly.com/uploads/2/8/2/7/28275701/1332393_orig.png" alt="Picture" style="width:auto;max-width:100%" /> </a> <div style="display:block;font-size:90%"></div> </div></div>]]></content:encoded></item></channel></rss>
+
+      <!--
+    Old Site - bads.tm S.W.I.N.E. community spot
+	http://thebads.weebly.com/1/feed
+      -->
+	  
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" >
+
+<channel><link><![CDATA[http://cafeswine.weebly.com/blog]]></link><description><![CDATA[Blog]]></description><pubDate>Sat, 13 May 2017 00:27:41 -0700</pubDate><generator>Weebly</generator><item><title><![CDATA[Discord!]]></title><link><![CDATA[http://cafeswine.weebly.com/blog/discord]]></link><comments><![CDATA[http://cafeswine.weebly.com/blog/discord#comments]]></comments><pubDate>Mon, 20 Feb 2017 13:50:46 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://cafeswine.weebly.com/blog/discord</guid><description><![CDATA[ [...] ]]></description><content:encoded><![CDATA[<div><div id="960132877892895135" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><iframe src="https://discordapp.com/widget?id=282253255268892672&amp;theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe></div></div>]]></content:encoded></item><item><title><![CDATA[ExScripts? (External Scripts) [ProjectVulcano]]]></title><link><![CDATA[http://cafeswine.weebly.com/blog/exscripts-external-scripts-projectvulcano]]></link><comments><![CDATA[http://cafeswine.weebly.com/blog/exscripts-external-scripts-projectvulcano#comments]]></comments><pubDate>Sat, 28 Jan 2017 18:53:49 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://cafeswine.weebly.com/blog/exscripts-external-scripts-projectvulcano</guid><description><![CDATA[Testing. [...] ]]></description><content:encoded><![CDATA[<div class="paragraph">Testing.</div>]]></content:encoded></item><item><title><![CDATA[﻿JAVA 4D EDITOR 0.2  (bads.tm exclusive version)]]></title><link><![CDATA[http://cafeswine.weebly.com/blog/java-4d-editor-02-badstm-exclusive-version]]></link><comments><![CDATA[http://cafeswine.weebly.com/blog/java-4d-editor-02-badstm-exclusive-version#comments]]></comments><pubDate>Wed, 04 Jan 2017 22:32:50 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://cafeswine.weebly.com/blog/java-4d-editor-02-badstm-exclusive-version</guid><description><![CDATA[Download (Need Feedback):&nbsp;https://1drv.ms/u/s!Asg9G6X-e72zhWn4kL6FS-F61jdqSource Code (Source):&nbsp;https://github.com/pcan/java-4dSource Code for my Modified Version:&nbsp;&#8203;https://1drv.ms/u/s!Asg9G6X-e72zhWhbkk5uYfm4yyWp        [...] ]]></description><content:encoded><![CDATA[<div class="paragraph">Download (Need Feedback):&nbsp;<a href="https://1drv.ms/u/s!Asg9G6X-e72zhWn4kL6FS-F61jdq" target="_blank">https://1drv.ms/u/s!Asg9G6X-e72zhWn4kL6FS-F61jdq</a><br />Source Code (Source):<a href="https://github.com/pcan/java-4d" target="_blank">&nbsp;https://github.com/pcan/java-4d</a><br />Source Code for my Modified Version:&nbsp;&#8203;<a href="https://1drv.ms/u/s!Asg9G6X-e72zhWhbkk5uYfm4yyWp" target="_blank">https://1drv.ms/u/s!Asg9G6X-e72zhWhbkk5uYfm4yyWp</a></div>  <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center"> <a> <img src="http://cafeswine.weebly.com/uploads/2/8/2/7/28275701/v2_orig.png" alt="Picture" style="width:auto;max-width:100%" /> </a> <div style="display:block;font-size:90%"></div> </div></div>]]></content:encoded></item><item><title><![CDATA[Minor Tweak. Player pages moved to About tab]]></title><link><![CDATA[http://cafeswine.weebly.com/blog/minor-tweak-player-pages-moved-to-about-tab]]></link><comments><![CDATA[http://cafeswine.weebly.com/blog/minor-tweak-player-pages-moved-to-about-tab#comments]]></comments><pubDate>Wed, 04 Jan 2017 15:08:12 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://cafeswine.weebly.com/blog/minor-tweak-player-pages-moved-to-about-tab</guid><description><![CDATA[ [...] ]]></description><content:encoded><![CDATA[]]></content:encoded></item><item><title><![CDATA[﻿Happy holidays! new theme and tools added]]></title><link><![CDATA[http://cafeswine.weebly.com/blog/happy-holidays-new-theme-and-tools-added]]></link><comments><![CDATA[http://cafeswine.weebly.com/blog/happy-holidays-new-theme-and-tools-added#comments]]></comments><pubDate>Fri, 30 Dec 2016 15:21:34 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://cafeswine.weebly.com/blog/happy-holidays-new-theme-and-tools-added</guid><description><![CDATA[New tools for modding:WinFF (FFMpeg GUI Version) - For new Video CutscenesWhy should I put here, when you can check out those pages (Download Tab) [...] ]]></description><content:encoded><![CDATA[<div class="paragraph">New tools for modding:<br />WinFF (FFMpeg GUI Version) - For new Video Cutscenes<br />Why should I put here, when you can check out those pages (Download Tab)</div>]]></content:encoded></item><item><title><![CDATA[S.W.I.N.E. Animations (Mod for valve source/sfm)]]></title><link><![CDATA[http://cafeswine.weebly.com/blog/swine-animations-mod-for-valve-sourcesfm]]></link><comments><![CDATA[http://cafeswine.weebly.com/blog/swine-animations-mod-for-valve-sourcesfm#comments]]></comments><pubDate>Sat, 03 Dec 2016 18:55:54 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://cafeswine.weebly.com/blog/swine-animations-mod-for-valve-sourcesfm</guid><description><![CDATA[When MOD Is released, you should be make better ANIMATIONS, than this sketch               [...] ]]></description><content:encoded><![CDATA[<div class="paragraph">When MOD Is released, you should be make better ANIMATIONS, than this sketch</div>  <div class="wsite-youtube" style="margin-bottom:10px;margin-top:10px;"><div class="wsite-youtube-wrapper wsite-youtube-size-auto wsite-youtube-align-center"> <div class="wsite-youtube-container">  <iframe src="//www.youtube.com/embed/brRGBcETfhg?wmode=opaque" frameborder="0" allowfullscreen></iframe> </div> </div></div>  <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center"> <a> <img src="http://cafeswine.weebly.com/uploads/2/8/2/7/28275701/tadanow.png" alt="Picture" style="width:auto;max-width:100%" /> </a> <div style="display:block;font-size:90%"></div> </div></div>]]></content:encoded></item><item><title><![CDATA[Small delay :( , but its here now!]]></title><link><![CDATA[http://cafeswine.weebly.com/blog/small-delay-but-its-here-now]]></link><comments><![CDATA[http://cafeswine.weebly.com/blog/small-delay-but-its-here-now#comments]]></comments><pubDate>Tue, 01 Nov 2016 08:41:30 GMT</pubDate><category><![CDATA[WW2_MOD]]></category><guid isPermaLink="false">http://cafeswine.weebly.com/blog/small-delay-but-its-here-now</guid><description><![CDATA[Delayed a bit because needs some more details (final touches to package)mod by bads.tm (and few black textured by hans rudel) is hereFeatures:*BE LEADER OF WW2 IN S.W.I.N.E. BY HAVING NAZI AND SOVIET TEXTURES ON YOURTANKSInstallation:bads.tm T.U.S.T.K. 2. / SWITCH/ InstantLauncher is required1. Have original UnitsUnits_?? (?? for your language ; its optional)(both can be extracted using PANZERS UNPACKER)2. Hex edit swine.exe (Digi dosen't like mods, use original)&nbsp;2.1 Find "units.ini" change [...] ]]></description><content:encoded><![CDATA[<div class="paragraph">Delayed a bit because needs some more details (final touches to package)<br />mod by bads.tm (and few black textured by hans rudel) is here<br />Features:<br />*BE LEADER OF WW2 IN S.W.I.N.E. BY HAVING NAZI AND SOVIET TEXTURES ON YOUR<br />TANKS<br /><br />Installation:<br />bads.tm T.U.S.T.K. 2. / SWITCH/ InstantLauncher is required<br /><br />1. Have original Units<br />Units_?? (?? for your language ; its optional)<br />(both can be extracted using PANZERS UNPACKER)<br />2. Hex edit swine.exe (Digi dosen't like mods, use original)<br />&nbsp;2.1 Find "units.ini" change to "unitz.ini" (continue with required files) and save<br />3. Setup SWITCH/ T.U.S.T.K. / InstantLauncher<br />Drag original ini and then edited<br />4. Drag "WW2" folder to S.W.I.N.E. Directory<br />&nbsp;4.1 Put files from "TEXTURES" to number folders in "SKINNED folder inside "WW2" (witch is) in S.W.I.N.E. Directory<br />&nbsp;4.2 Each Number folder means color, you need add to all or extract units folder with PANZERS Unpacker (to prevent crashing) and add into color you like<br />5. &nbsp;Start using InstantLauncher<br /><br />Package includes:<br />Texture Files only "_normal" no "_veteran" or "_elite" (you should have units folder extracted and but its contents to "ww2" folder if you dont want game to crash)<br />edited units.ini<br />Color Table.png<br /><br />&#8203;Download: <a href="https://1drv.ms/u/s!Asg9G6X-e72zg2VHaaf-Wqjmfl41" target="_blank">OneDrive</a> &amp; Mods Page</div>]]></content:encoded></item><item><title><![CDATA[FIRST MOD BY BADS.TM]]></title><link><![CDATA[http://cafeswine.weebly.com/blog/first-mod-by-badstm]]></link><comments><![CDATA[http://cafeswine.weebly.com/blog/first-mod-by-badstm#comments]]></comments><pubDate>Thu, 13 Oct 2016 06:34:38 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://cafeswine.weebly.com/blog/first-mod-by-badstm</guid><description><![CDATA[The BIG Mod2016 10 23 WILL BE AVAILABLE FOR DOWNLOAD [...] ]]></description><content:encoded><![CDATA[<div class="paragraph">The BIG Mod<br />2016 10 23 WILL BE AVAILABLE FOR DOWNLOAD<br /></div>]]></content:encoded></item><item><title><![CDATA[Cam Hack for S.W.I.N.E.]]></title><link><![CDATA[http://cafeswine.weebly.com/blog/cam-hack-for-swine]]></link><comments><![CDATA[http://cafeswine.weebly.com/blog/cam-hack-for-swine#comments]]></comments><pubDate>Mon, 05 Sep 2016 07:49:51 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://cafeswine.weebly.com/blog/cam-hack-for-swine</guid><description><![CDATA[ [...] ]]></description><content:encoded><![CDATA[<div class="paragraph"></div>]]></content:encoded></item><item><title><![CDATA[Music Testing (Via HTML5)]]></title><link><![CDATA[http://cafeswine.weebly.com/blog/music-testing-via-html5]]></link><comments><![CDATA[http://cafeswine.weebly.com/blog/music-testing-via-html5#comments]]></comments><pubDate>Thu, 01 Sep 2016 13:16:50 GMT</pubDate><category><![CDATA[Uncategorized]]></category><guid isPermaLink="false">http://cafeswine.weebly.com/blog/music-testing-via-html5</guid><description><![CDATA[Music isn't hosted on this site or youtube :)More Specific -&nbsp;&#8203;http://users3.ml.mindenkilapja.hu/.... [...] ]]></description><content:encoded><![CDATA[<div class="paragraph">Music isn't hosted on this site or youtube :)<br />More Specific -&nbsp;&#8203;http://users3.ml.mindenkilapja.hu/....<br /></div>]]></content:encoded></item></channel></rss>
