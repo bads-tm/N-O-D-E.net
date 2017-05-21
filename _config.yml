@@ -15,5 +15,38 @@ permalink: pretty
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
 
-
+# bads SEO engine
 permalink: /404.HTML
+
+gems:
+  - jekyll-sitemap
+
+gems:
+  - jekyll-seo-tag
+  
+# ###### bads SEO tags
+title: 
+description: 
+url: https://bads-tm.github.io/
+twitter:
+  username: bads_tm
+  
+#facebook:
+# app_id: 1234
+# publisher: 1234
+# admins: 1234
+
+logo: https://raw.githubusercontent.com/bads-tm/bads-tm.github.io/master/uploads/sys/logo.png
+
+#social:
+#  name: bads.tm
+#  links:
+#    - https://twitter.com/bads_tm
+#    - https://www.facebook.com/bads.tm
+
+webmaster_verifications:
+#  google: 1234
+#  bing: 1234
+#  alexa: 1234
+#  yandex: 1234
+
