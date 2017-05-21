@@ -1,2 +1,2 @@
-## bads.tm website reconstrucion zone
-Try it out, the more (code) readable and still informational version!
+## bads.tm website 2.0
+More (code) readable!
