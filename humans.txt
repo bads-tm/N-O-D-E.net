@@ -1,0 +1,21 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+	Management: Darius
+	Twitter: @bads_tm
+	Facebook: https://www.facebook.com/bads.tm
+	From: Vilnius
+	
+/* THANKS */
+	N-O-D-E
+	Web: http://N-O-D-E.NET
+  For: Githubbing his site.
+
+/* SITE */
+	Language: English
+	Twitter: @bads_tm
+	Facebook: https://www.facebook.com/bads.tm
+	Last update: monthly
+	Doctype: HTML5
+	IDE: Notepad++
