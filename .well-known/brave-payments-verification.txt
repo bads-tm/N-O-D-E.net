@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: bads-tm.github.io
+Token: a8f35b6324fc2adb80a17aec9ee38dd611d6c49983082806eb12c96cbeed8873
