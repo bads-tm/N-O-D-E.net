@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/bads_tm
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bads-tm.github.io
+  * I am bads_tm (https://keybase.io/bads_tm) on keybase.
+  * I have a public key with fingerprint CB2C 8B6D 039F 5147 205C  4F14 A966 C528 2D80 3F03
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101805ec3d57ae35e8c9ff28ebaa1cf810533e959c4676e6b702ec659842980d1ba0a",
+      "fingerprint": "cb2c8b6d039f5147205c4f14a966c5282d803f03",
+      "host": "keybase.io",
+      "key_id": "a966c5282d803f03",
+      "kid": "0101805ec3d57ae35e8c9ff28ebaa1cf810533e959c4676e6b702ec659842980d1ba0a",
+      "uid": "8cb64043e9ce485a599fb05ce1fbdc19",
+      "username": "bads_tm"
+    },
+    "service": {
+      "hostname": "bads-tm.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1517842079,
+  "expire_in": 157680000,
+  "prev": "eae679b3d96519942dcb03d59f6099d08e238a25e3453869cfdb44fa212ebc23",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbSBVBGD5aRp00KlCwCGojglCbnd3ZnTkPUhAlGiVR0f24Mzt7XNTd
+09k9poliSDcigyiNIozogklpCgbVg3YhsKAL3QkSCTK63+hG2awV9NBj8zLMP9/3
+/d//8V/KGBEKp9T21w2unby2LuVq74FkaFWV01IjUdesliI1Uhkfvni5yT0/Wmab
+UkQCMpAxQJwpJtINriCOGbEsiDk1DJlZWAZIUThBhKmarnGN6gBypiGCVUgwMGVq
+AEPKkSzbifFEPGE7vpBlFDJMNRMoxEKyqkOAmGrJqkE0jSGIoYmBYgFFEEtdL2AI
+c9TweJ7tipp4RIft/QP/n30nh+Uwo5oKVEFgXMXIQIRYVHjmskVNJpMA6PGEY1Rw
+gaaG6UX9Cqk2RxLFSpvxINdgkL8AuX5FXsz2S5P010zxhOu7zC0X36W+H/ciAd2v
+jgf4DZxGfytFqe2YIkvBqOQJz3YdKSILJPPtQFpGsi4mADrJkXhV3E7wqB0gkK5h
+IE7Qh1cKSW5wTSdUMYmGZEJUaDIKRFjE0gAhJsAcKtiAiCsqUrBGmGVSVbUMKENO
+GQyS9vh6x5UiirBpxISkZ8ccw08muFR7oWfNyFBKODQqLTXYsVB4zPg/m9fxYXRo
+y5Trr191j/oxhxxavLv7bhs8ljX+dGPr6Gd94c6Csadm7UwdwBcHN09veVL/OXzt
++wO3bqAnvOjD+/PtTavhwdCZ9GloYdmkksnt3e+84nhqdWv5ruPpQ+uVvefN7b2X
+82PZZwb6J247+UVXlhzJWrBx16clzWyctfTQ3NxXyzpu7e+zIslm+G0gf6hkQlt0
+7+rixyu/bMRw09M56Ght2p6HXfbNc1b28XlFmcmMKw179NyZ7olwb96OG2fvE/Ax
+o+bkvsHDGYveHnzwte12wZ3lTn3DsbtTCzPfl83HKxobPxtvZ78pmbHwZWF2mjai
+qb9ocdfWF/fGyfMeHX0YXdb0vHNd908WhkMY
+=84sx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bads_tm
+
+==================================================================
+
