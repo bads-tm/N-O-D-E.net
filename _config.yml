@@ -23,14 +23,23 @@ gems:
 
 gems:
   - jekyll-seo-tag
-  
-# ###### bads SEO tags
-title: 
-description: 
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+gems:
+    - jekyll-sitemap
+    - jekyll-seo-tag
+
+# bads SEO tags
+
+title: bads.tm
+description: bads.tm
 url: https://bads-tm.github.io/
 twitter:
   username: bads_tm
-  
+
 #facebook:
 # app_id: 1234
 # publisher: 1234
@@ -50,3 +59,8 @@ webmaster_verifications:
 #  alexa: 1234
 #  yandex: 1234
 
+
+
+name: bads.tm
+description: bads.tm
+author: bads.tm
