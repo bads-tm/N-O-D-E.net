@@ -4,9 +4,9 @@
 /* TEAM */
 	Management: Darius
 	Twitter: @bads_tm
-	Facebook: https://www.facebook.com/bads.tm
+	VidLii: https://vidlii.com/user/bads-tm
 	From: Vilnius
-	
+
 /* THANKS */
 	N-O-D-E
 	Web: http://N-O-D-E.NET
@@ -15,7 +15,7 @@
 /* SITE */
 	Language: English
 	Twitter: @bads_tm
-	Facebook: https://www.facebook.com/bads.tm
+	VidLii: https://vidlii.com/user/bads-tm
 	Last update: monthly
 	Doctype: HTML5
-	IDE: Notepad++
+	IDE: Atom on LINUX (was Notepad++ on WindBlows)
