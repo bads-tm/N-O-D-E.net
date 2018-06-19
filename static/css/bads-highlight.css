@@ -1,0 +1,8 @@
+/* bads.tm rulz! 2017 */
+
+::selection {
+  background: #FFBE02; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #FFBE02; /* Gecko Browsers */
+}

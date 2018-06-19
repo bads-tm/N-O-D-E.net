@@ -6,48 +6,110 @@ layout: null
 =============================
       ^ bads.tm
      /| website project version g3
-  	/|| 404
+    /|| BWS page
  	 /_/| Jekyll version
 	/___| Some (C) to 2017, 2018 bads.tm
 =============================
  -->
 <html>
+
 <head>
-    <link href='https://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="https://bads-tm.github.io/css/style.css" media="screen">
-	<link rel="shortcut icon" href="https://bads-tm.github.io/images/avatar.png"> <!-- Might break #fixme #touch, tags-->
-	<link rel="icon" sizes="192x192" href="https://bads-tm.github.io/images/avatar.png">
+  <link href='https://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
+  <link rel="shortcut icon" href="images/avatar.png">
+  <!-- Might break #fixme #touch, tags-->
+  <link rel="icon" sizes="192x192" href="images/avatar.png">
   <!-- jekyll tags-->
-{% include tags.html %}
-<!-- jekyll tags-->
+  {% include tags.html %}
+  <!-- jekyll tags-->
 </head>
+
+<title>404 @ bads-tm.github.io </title>
+<style>
+body {
+  color: #fff;
+  background-color: #000;
+}
+#mid {
+  position: absolute;
+  width: 300px;
+  height: 200px;
+  z-index: 15;
+  top: 50%;
+  left: 50%;
+  margin: -100px 0 0 -150px;
+  font-family: monospace;
+}
+a {
+    color: #fff;
+	font-family: monospace;
+}
+a:link {
+    text-decoration: none;
+	font-family: monospace;
+}
+.t404 {
+ color: #000;
+ background-color: #fff;
+}
+.footerspacer {
+  color: #fff;
+  margin: 0 5px;
+}
+::selection {
+  background: #00BCBF; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #00BCBF; /* Gecko Browsers */
+}
+</style>
 <body>
+    <div id="mid">
+        <font size="7"><b class="t404">404</b></font>
+		<br> Page not found
+		<br><br><a href="https://stormregion.github.io"><b> Go to main page? </b></a>
+		<br><br><br><small>&copy;
+    <script language="JavaScript" type="text/javascript">
+        now = new Date
+        theYear=now.getYear()
+        if (theYear < 1900)
+        theYear=theYear+1900
+        document.write(theYear)
+    </script><b> bads.tm LLC</b>. All rights reserved.</small>
+    <br><br>
+    <!--FOOTER SECTION #bEnd #fixme #touch-->
+    <div id="corebottom">
+                <div id="footer">
+                    <div class="filter">
+                    <a href="/">HOME</a>
+    				<span class="footdogs">  &#215; </span>
+                    <a href="/projects">PROJECTS</a>
+                    <span class="footdogs">  &#215; </span>
+                    <a href="/shop/">SHOP</a>
+                    <span class="footdogs">  &#215; </span>
+                    <a href="/ultrapage#donate">DONATE!</a>
+    				<span class="footdogs">  &#215; </span>
+                    <a href="/about">ABOUT</a>
+    				<span class="footdogs">  &#215; </span>
+                    <a href="/contact">CONTACT</a>
+                    </div>
+    <!--FOOTER SECTION - BOTTOM -->
+                    <div class="filter">
+                    <a href="/ultrapage#social">SOCIAL LINKS</a>
+                    <span class="footdogs">  &#215; </span>
+                            <a href="/coolpage">COOL PAGE</a>
+                    <span class="footdogs">  &#215; </span>
+                    <a href="/ultrapage#ultra">ULTRAPAGE</a>
+    				</div>
+    <!-- Other Sites stuff -->
+    <small><div class="filter">
+    				<a style="color: #717171; text-decoration: none;" >Other BADS.TM Sites:</a>
+                    <a href="#" onclick="alert('Work in Progress...!')" >LittVid</a>
+    				<span class="footdogs">  &#215; </span>
+                    <a href="https://sgengine.github.io">SGEngine</a>
+    				<span class="footdogs">  &#215; </span>
+                    <a href="https://bads-tm.github.io/swine/">Stormregion</a>
+    				<span class="footdogs">  &#215; </span>
+                    <a href="#">Socially</a>
 
-    <div id="page">
-        <div id="content">
-
-        <!--HEADER SECTION #bHead-->
-        <div id="header"><pre>
-<a class="node" href="https://bads-tm.github.io/">
-     BA   DS  BA                           BAD               BD
-    BA    DS  DS                           STM               TM
-   BA  D  ST  BADSBADS     BADS.TMB   BADS.TMB   ADSTM     BADSTM BDSBADS BADST
-  BA  DS  TM  BADS  BAD  BADS.TMBDS  BAD  BADS  BDS          ss   BDS  BADS BAD
- BA  DSS  TM  BD     BAD BAD    BDS STM     BD   ADS         ss   BA   BAD   STM
-          TM  BAD    BA  BAD    BDS BDS    BAD     BDS /BA\  ss   DS   STM   BAD
-BADSTMBADSTM  B DS.TMBD   BADS.TM D  BADS.TM D  BADST  \DS/  ss   TM   BDS   STM
-</a>
-<small>Get to the bottom by clicking <a href="#corebottom"><b>this</b></a></small>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</pre>
-            </div>
-
-            <!--THE LIST #bStuff -->
-
-                    <div id="header"><pre>
-<a class="node" href="https://bads-tm.github.io/">
-<!--THE STUFF (maybe quick links, so no scroll to bottom) -->
-<P>404. Page didn't even exist or existed or it is replaced by simmilar/new one</P>
-            </div>
-
-<!-- jekyll ending -->
-{% include end.html %}
+    </div>
+</body>
