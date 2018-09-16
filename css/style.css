@@ -31,7 +31,7 @@ img             {max-width: 100%; margin-bottom: 20px;}
 .categories 	{visibility: hidden;}
 .catbox			{visibility: hidden;}
 }
-.catbox			{width: 300px; height: 160px; right:0; margin:0; position: absolute; background: #222;
+.catbox			{width: 300px; height: 160px; right:0; margin:0; position: absolute; background: #000;
 				display: block; z-index: 999;}
 .footdogs       {margin:0 5px}
 .tag            {color: #c8c8c8;}
